@@ -4,6 +4,10 @@
         {
             "description": "Groceries",
             "amount": 200.0
+        },
+        {
+            "description": "Meal",
+            "amount": 50.0
         }
     ]
 }
